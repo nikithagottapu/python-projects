@@ -1,5 +1,4 @@
 # Employee Salary Analysis
-
 A Python project that analyzes employee salary data and identifies employees earning below the average salary.
 
 ## Concepts Used
